@@ -1,0 +1,1 @@
+# Django Python sample application
